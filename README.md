@@ -1,8 +1,8 @@
 # Hi, I'm Abdallah Khodor 👋
 
-### Computer Science Student | Full-Stack Web Developer
+### Full-Stack Web Developer
 
-I'm in the final semester of my Computer Science studies at **ISAE-CNAM Liban**. I enjoy building web applications and working across both frontend and backend development.
+I build web applications and enjoy working across frontend and backend development. I like solving problems, learning new technologies, and turning ideas into practical applications.
 
 ---
 
